@@ -1,0 +1,62 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.so
+
+# Virtual environments
+env/
+venv/
+ENV/
+.venv/
+.pip/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# PyInstaller
+*.manifest
+*.spec
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# Logs
+*.log
+
+# Mac OS
+.DS_Store
+
+# VSCode
+.vscode/
+
+# Environment variables
+.env
+
+# IDEs
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# MyPy, Pylint, Coverage
+.mypy_cache/
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Database files
+*.sqlite3
+*.db
+*.sqlite
+
+# Backup files
+*~
+*.bak
+
+# System files
+Thumbs.db
+ehthumbs.db
+
+# Python Poetry
+poetry.lock
